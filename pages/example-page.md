@@ -2,4 +2,4 @@
 title: Example Page
 permalink: /example-page/
 ---
-hi2
+hi3
