@@ -89,7 +89,7 @@ sections:
       id: resources
   - textcards:
       title: Text Cards
-      subtitle: Add informational text
+      subtitle: Add informational textfsdew
       id: textcards
       description: Text card description
       cards:
