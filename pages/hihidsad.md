@@ -1,6 +1,6 @@
 ---
 title: hihidsad
 permalink: /permalink/
-variant: tiptap
+variant: markdown
 description: ""
 ---
