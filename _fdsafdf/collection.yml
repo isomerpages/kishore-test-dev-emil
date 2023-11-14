@@ -1,4 +1,5 @@
 collections:
   fdsafdf:
     output: true
-    order: []
+    order:
+      - new page created.md
