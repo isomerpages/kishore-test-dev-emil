@@ -2,5 +2,6 @@
 title: plsplswork
 permalink: /permalink/
 description: ""
+variant: markdown
 ---
-fdsafdsafdsaf
+fdsafdsafdsaffdas
