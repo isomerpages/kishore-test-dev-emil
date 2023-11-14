@@ -2,5 +2,6 @@ collections:
   dsafdsafdsf:
     output: true
     order:
+      - Example Titlefdsafdsa.md
       - Example Titlefdsaf.md
       - hihidsad.md
