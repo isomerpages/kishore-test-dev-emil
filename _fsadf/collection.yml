@@ -2,6 +2,5 @@ collections:
   fsadf:
     output: true
     order:
-      - Rtestre/Example Titledfsaf.md
       - Rtestre/Example Title.md
       - Rtestre/.keep
