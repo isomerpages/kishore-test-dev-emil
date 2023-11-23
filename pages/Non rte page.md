@@ -4,4 +4,4 @@ permalink: /permalink/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<details><summary>hi</summary><div data-type="detailsContent"><p>hill</p><p></p></div></details><details><summary>hi</summary><div data-type="detailsContent"><p>there</p></div></details><details><summary>hello</summary><div data-type="detailsContent"><p>there</p><p></p></div></details><p>now got a line in-between.</p><details><summary>Hmm</summary><div data-type="detailsContent"><p>Hihi</p></div></details>
