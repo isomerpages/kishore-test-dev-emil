@@ -1,4 +1,5 @@
 collections:
   nitsar:
     output: true
-    order: []
+    order:
+      - new page.md
