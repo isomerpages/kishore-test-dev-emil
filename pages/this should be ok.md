@@ -1,6 +1,7 @@
 ---
 title: this should be ok
 permalink: /permalink/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+making a new change here
