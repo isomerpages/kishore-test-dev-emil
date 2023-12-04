@@ -1,4 +1,5 @@
 collections:
   rassrat:
     output: true
-    order: []
+    order:
+      - now this should work after the rollback rename twice.md
