@@ -2,4 +2,5 @@ collections:
   rassrat:
     output: true
     order:
+      - nirstart.md
       - now this should work after the rollback rename twice.md
