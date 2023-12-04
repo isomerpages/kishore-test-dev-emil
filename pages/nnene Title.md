@@ -1,6 +1,7 @@
 ---
 title: nnene Title
 permalink: /permalink/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+ninininini
