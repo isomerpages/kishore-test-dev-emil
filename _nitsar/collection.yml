@@ -1,0 +1,4 @@
+collections:
+  nitsar:
+    output: true
+    order: []
