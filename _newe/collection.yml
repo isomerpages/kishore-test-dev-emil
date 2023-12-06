@@ -1,4 +1,5 @@
 collections:
   newe:
     output: true
-    order: []
+    order:
+      - qwerty.md
