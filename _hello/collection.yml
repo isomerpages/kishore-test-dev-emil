@@ -1,5 +1,5 @@
 collections:
-  ttxdzcdx:
+  hello:
     output: true
     order:
       - post removal of feature flag.md
