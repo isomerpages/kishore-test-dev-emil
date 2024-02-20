@@ -4,7 +4,7 @@ permalink: /permalink/
 variant: markdown
 description: ""
 ---
-Allowed script 
+Allowed script&nbsp;
 
 <script async="true" src="//www.instagram.com/embed.js"></script>
 
