@@ -4,6 +4,13 @@ permalink: /permalink/
 variant: markdown
 description: ""
 ---
+Allowed script 
+
 <script async="true" src="//www.instagram.com/embed.js"></script>
 
+Disallowed in csp
+
+
+
+Allowed in csp but should also be controlled
 
