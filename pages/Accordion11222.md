@@ -6,5 +6,4 @@ description: ""
 ---
 <p>
 <mark>&lt;script</mark>
-<mark>src</mark>="//<a href="http://www.instagram.com/embed.js" rel="noopener noreferrer nofollow" target="_blank">www.instagram.com/embed.js</a>"
-async="true"&gt;&lt;/script&gt;</p>
+<mark>src</mark>"//<a></a></p>
