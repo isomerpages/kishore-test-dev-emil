@@ -7,11 +7,17 @@ description: ""
 <p></p>
 <p></p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>hehe</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h2>this breaks stuff hor</h2>
+</div>
+</details>
+<details class="isomer-details">
+<summary>normal</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>this is normal p</p>
 </div>
 </details>
 </div>
