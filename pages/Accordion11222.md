@@ -9,7 +9,7 @@ description: ""
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>hehe</summary>
+<summary>hehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehe</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h2>this breaks stuff hor</h2>
 </div>
