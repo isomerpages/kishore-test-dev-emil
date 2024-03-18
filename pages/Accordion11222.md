@@ -9,9 +9,8 @@ description: ""
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>he he he he orce refresh againorce refresh againorce refresh againorce
-refresh againorce refresh againorce refresh againorce refresh againorce
-refresh againorce refresh again</summary>
+<summary>he he he he he he he he he h he he he h he he he h he he he h he he he
+h he he he h he he he h he he he he</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h2>this breaks stuff hor</h2>
 </div>
