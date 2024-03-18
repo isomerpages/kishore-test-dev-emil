@@ -11,7 +11,7 @@ description: ""
 <details class="isomer-details">
 <summary>hehe</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h2>this breaks stuff</h2>
+<h2>this breaks stuff hor</h2>
 </div>
 </details>
 </div>
