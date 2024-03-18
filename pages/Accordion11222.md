@@ -21,7 +21,7 @@ description: ""
 </div>
 </details>
 <details class="isomer-details">
-<summary>force refresh</summary>
+<summary>force refresh again</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
