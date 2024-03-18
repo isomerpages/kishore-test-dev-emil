@@ -20,6 +20,12 @@ description: ""
 <p>this is normal p</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>force refresh</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>
