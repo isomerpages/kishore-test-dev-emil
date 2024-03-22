@@ -2,4 +2,5 @@ collections:
   adsfg:
     output: true
     order:
+      - Adsfg.md
       - another one.md
