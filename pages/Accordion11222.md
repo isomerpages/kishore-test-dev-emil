@@ -39,11 +39,17 @@ he he h he he hehe he h he he he h he he hehe he h he he he h he he he</summary>
 </div>
 <p></p>
 <p>bare body text</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-gray">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>this is accordion</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>this is some text</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>this is some other accordion</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
