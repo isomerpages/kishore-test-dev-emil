@@ -4,35 +4,29 @@ permalink: /permalink11234/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p></p>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-grey">
 <details class="isomer-details">
-<summary>he he he he he he he he he h he he he h he he he h he he he h he he he
-h he he he h he he he h he he he hhe he h he he he h he he hehe he h he
-he he h he he hehe he h he he he h he he hehe he h he he he h he he he</summary>
+<summary>sup</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h2>this breaks stuff hor</h2>
 </div>
 </details>
 <details class="isomer-details">
-<summary>normal</summary>
+<summary>bro</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>this is normal p</p>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>force</summary>
+<summary>sup</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
-</div>
-<p>bare body text</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary>bro</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
