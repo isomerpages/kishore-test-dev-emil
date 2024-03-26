@@ -22,13 +22,13 @@ description: ""
 <details class="isomer-details">
 <summary>sup</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>hihi</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>bro</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>hihi</p>
 </div>
 </details>
 </div>
