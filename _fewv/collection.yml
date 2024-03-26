@@ -1,0 +1,5 @@
+collections:
+  fewv:
+    output: true
+    order:
+      - privacy.md

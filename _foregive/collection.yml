@@ -1,0 +1,5 @@
+collections:
+  foregive:
+    output: true
+    order:
+      - new page created.md
