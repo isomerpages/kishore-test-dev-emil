@@ -1,0 +1,9 @@
+collections:
+  about-stb:
+    output: true
+    order:
+      - Careers/Students.md
+      - Careers/.keep
+      - Careers.md
+      - Who We Are.md
+      - Board Members.md

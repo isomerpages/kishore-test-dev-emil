@@ -1,0 +1,6 @@
+collections:
+  adsfg:
+    output: true
+    order:
+      - another two.md
+      - another one.md
