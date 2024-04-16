@@ -1,0 +1,6 @@
+collections:
+  fsadf:
+    output: true
+    order:
+      - Rtestre/Example Title.md
+      - Rtestre/.keep

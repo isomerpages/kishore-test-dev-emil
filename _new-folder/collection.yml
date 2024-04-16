@@ -1,0 +1,5 @@
+collections:
+  new-folder:
+    output: true
+    order:
+      - this is a new page.md

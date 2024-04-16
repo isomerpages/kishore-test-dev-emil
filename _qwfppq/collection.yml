@@ -1,0 +1,5 @@
+collections:
+  qwfppq:
+    output: true
+    order:
+      - Example Title.md
